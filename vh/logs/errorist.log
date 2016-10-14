@@ -1,0 +1,19 @@
+[Thu Oct 13 23:59:40.761895 2016] [auth_basic:error] [pid 2292:tid 1700] [client 127.0.0.1:49250] AH01617: user vasia: authentication failure for "/secure": Password Mismatch
+[Thu Oct 13 23:59:46.160204 2016] [auth_basic:error] [pid 2292:tid 1700] [client 127.0.0.1:49250] AH01617: user vasia: authentication failure for "/secure": Password Mismatch
+[Fri Oct 14 00:03:59.403874 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49253] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FileMatch> directive missing closing '>'
+[Fri Oct 14 00:04:29.659920 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49254] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FileMatch> directive missing closing '>'
+[Fri Oct 14 00:05:29.598009 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49255] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 00:05:58.708056 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49257] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 00:07:45.372208 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49262] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 00:08:22.022259 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49263] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 00:08:24.352262 2016] [core:alert] [pid 2292:tid 1700] [client 127.0.0.1:49264] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 01:08:29.597999 2016] [core:alert] [pid 2464:tid 1672] [client 127.0.0.1:49168] D:/P33taFolda/Dump/vh/htdocs/.htaccess: </FilesMatch> directive missing closing '>'
+[Fri Oct 14 01:09:26.600500 2016] [auth_basic:error] [pid 2464:tid 1672] [client 127.0.0.1:49204] AH01618: user fdsfd not found: /htdocs.rar
+[Fri Oct 14 02:41:15.816366 2016] [core:alert] [pid 2464:tid 1672] [client 127.0.0.1:49266] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:41:36.633557 2016] [core:alert] [pid 2464:tid 1672] [client 127.0.0.1:49267] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:41:40.407773 2016] [core:alert] [pid 2464:tid 1672] [client 127.0.0.1:49268] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:42:04.202134 2016] [core:alert] [pid 2464:tid 1672] [client 127.0.0.1:49270] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:42:49.713827 2016] [core:alert] [pid 2464:tid 1668] [client 127.0.0.1:49272] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:43:08.277860 2016] [core:alert] [pid 2464:tid 1668] [client 127.0.0.1:49273] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:43:36.420309 2016] [core:alert] [pid 2464:tid 1668] [client 127.0.0.1:49274] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here
+[Fri Oct 14 02:43:39.477915 2016] [core:alert] [pid 2464:tid 1668] [client 127.0.0.1:49275] D:/P33taFolda/Dump/vh/htdocs/.htaccess: <Directory not allowed here

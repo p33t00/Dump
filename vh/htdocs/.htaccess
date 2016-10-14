@@ -1,0 +1,7 @@
+# .htaccess
+<FilesMatch "\.rar$">
+	AuthType Basic
+	AuthName "Sucure File"
+	AuthUserFile "D:/.htpasswd"
+	require valid-user
+</FilesMatch>

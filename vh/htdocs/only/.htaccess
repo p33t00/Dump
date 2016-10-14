@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Vip Place"
+AuthUserFile D:/.htpasswd
+Require user vasia

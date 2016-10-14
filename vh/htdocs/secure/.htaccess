@@ -1,0 +1,6 @@
+# .htaccess
+
+AuthType Basic
+AuthName "Sucure Folder"
+AuthUserFile D:/.htpasswd
+require valid-user
